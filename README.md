@@ -1,1 +1,1 @@
-# Cinema-Reservation-C-
+# Cinema Reservation C++
